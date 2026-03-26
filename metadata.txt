@@ -1,0 +1,14 @@
+[general]
+name=UrbisMap Click
+qgisMinimumVersion=3.22
+description=Apre UrbisMap nel browser esterno cliccando un punto sulla mappa
+version=1.0.1
+author=Enrico Craboledda
+email=test@example.com
+about=Click sul pulsante del plugin, click sulla mappa, apertura di UrbisMap con lat e lng del punto cliccato.
+category=Web
+tags=urbismap,web,map,click,browser
+icon=icon.png
+experimental=False
+deprecated=False
+hasProcessingProvider=False
